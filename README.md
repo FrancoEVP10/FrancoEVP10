@@ -2,6 +2,7 @@
 
 - 🎓 I'm currently studying Software Engineering at [UPC](https://www.upc.edu.pe/)
 - 📫 How to reach me: [vasquezfranco439@gmail.com](mailto:vasquezfranco439@gmai.com)
+- 📫 You can visit my academic account: [FrancoVasquez](https://github.com/FrancoVasquez)
 
 ## Languages and Tools
 
